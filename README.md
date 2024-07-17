@@ -66,13 +66,13 @@
 国外服务器：
 
 ```bash
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
+curl -O https://raw.githubusercontent.com/qiutao1204/reinstall/main/reinstall.sh
 ```
 
 国内服务器：
 
 ```bash
-curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
+curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/qiutao1204/reinstall/main/reinstall.sh
 ```
 
 ## 下载（当前系统是 <img width="20" height="20" src="https://blogs.windows.com/wp-content/uploads/prod/2022/09/cropped-Windows11IconTransparent512-32x32.png" /> Windows）
